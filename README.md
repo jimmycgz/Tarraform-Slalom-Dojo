@@ -1,3 +1,6 @@
+# Please refer to Slalom DevOps Dojo 
+https://github.com/slalomdojo
+
 # Challenge
 In this Terraform challenge, you will have to deploy a few infrastructure components to two different Cloud providers: [Amazon Web Services](https://aws.amazon.com/) and [Google Cloud Platform](https://cloud.google.com/). You do not need to be an expert in any of these platforms as the focus is to learn Terraform. However, any experience in any of these platforms will certainly be helpful.
 
