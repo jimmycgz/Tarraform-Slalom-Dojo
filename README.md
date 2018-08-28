@@ -321,6 +321,7 @@ Destroy complete! Resources: 1 destroyed.
 Now you're ready to begin the challenge. **Keep the provider block, but remove the EIP resource block from main.tf before proceeding**.
 
 # Stage 1
+Jimmy accomplished this stage at Aug 27th, refer to code file Jmy_Stage1.tf (same as 3-infrastructure-as-code/terraform_main.tf)
 
 ## Architecture
 ![Stage 1](./images/stage-1.png)
